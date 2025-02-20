@@ -1,0 +1,13 @@
+{
+    "exams": [
+        {
+            "id": "map-daily-01",
+            "title": "MAP Daily Exam 01",
+            "duration": 25,
+            "totalQuestions": 50,
+            "questionsFile": "map-daily-01.json"
+        }
+       
+    ]
+    
+}

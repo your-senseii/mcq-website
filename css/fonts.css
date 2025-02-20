@@ -1,0 +1,37 @@
+/* Create a fonts.css file */
+@font-face {
+    font-family: 'Kalpurush';
+    src: url('../fonts/Kalpurush.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SolaimanLipi';
+    src: url('../fonts/SolaimanLipi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SutonnyMJ';
+    src: url('../fonts/SutonnyMJ.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Cambria Math';
+    src: url('../fonts/cambria-math.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('../fonts/times-new-roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
